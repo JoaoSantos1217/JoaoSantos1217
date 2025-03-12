@@ -15,7 +15,7 @@
 ## 🚀 About Me
 🔹 **Background:** Master's in Biomedical Engineering, Bachelor's in Bioengineering  
 🔹 **Passionate About:** Data Analysis, Machine Learning and Business Intelligence  
-🔹 **Key Strengths:** Problem-solving, Data-Driven Decision-Making and Teamwork  
+🔹 **Key Strengths:** Problem-solving, Storytelling with Data, Data-Driven Decision-Making and Teamwork  
 
 ---
 
