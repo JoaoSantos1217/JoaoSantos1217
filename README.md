@@ -40,17 +40,9 @@
 
 ## 📌 Featured Projects  
 
-### 📊 **Coffee Sales Analysis**  
-- Built an **interactive Power BI dashboard** to track seasonal trends, product performance, and store profitability.  
-- Cleaned and transformed data using **Power Query & DAX** for accurate sales insights.  
-- Identified peak sales periods and optimized revenue strategies.  
-🔗 [View Project](https://github.com/your-username/coffee-sales-analysis)  
+Here are some of my key projects. To view detailed descriptions and insights, click the button below:  
 
-### 🤖 **Loan Approval Prediction**  
-- Developed a **machine learning model** with Scikit-Learn to predict loan approvals.  
-- Performed data cleaning and feature selection using **Pandas & NumPy**.  
-- Conducted **EDA with Seaborn & Matplotlib** for insights.  
-🔗 [View Project](https://github.com/your-username/loan-approval-prediction)  
+🔗 **[View My Projects](./PROJECTS.md)**  
 
 ---
 
