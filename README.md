@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoaoSantos1217/JoaoSantos1217/main/profile.jpg" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/u/200834315?s=400&u=af9bbaf9a42e6654f7eca5706a44e958d6b01858&v=4" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <h1 align="center">Hi there! 👋 </h1>
@@ -8,6 +8,7 @@
 <p align="center">
   🎯 I'm João Santos, a Data Analytics enthusiast from 🇵🇹 Portugal.
 </p>
+
 
 ---
 
